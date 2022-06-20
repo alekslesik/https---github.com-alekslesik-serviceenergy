@@ -1,13 +1,13 @@
 <style>
     .ceo-wrap-grey {
         background-color: #f6f6f6;
-        padding: 20px 20px 20px 20px;
+        padding: 40px 20px 20px 20px;
         border-radius: 5px;
         margin-bottom: 48px;
     }
 
     .ceo-wrap-white {
-        padding: 20px 20px 20px 20px;
+        padding: 40px 20px 20px 20px;
         border-radius: 5px;
         margin-bottom: 48px;
     }
