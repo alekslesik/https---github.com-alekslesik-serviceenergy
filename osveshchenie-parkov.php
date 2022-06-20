@@ -95,7 +95,7 @@
         </div>
         <div class="ceo-flex-elem">
             <div>
-                <img width="100%" src="/local/templates/aspro-allcorp3_energy/components/aspro/ff.jpg" style="border-radius:5px;">
+                <img width="100%" src="/local/templates/aspro-allcorp3_energy/images/osveshenie_parkov.png" style="border-radius:5px;">
             </div>
         </div>
         <div class="ceo-flex-elem">
